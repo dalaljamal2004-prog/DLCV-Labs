@@ -1,0 +1,21 @@
+[submodule "Lab02"]
+	path = Lab02
+	url = https://github.com/dalaljamal2004-prog/lab-2-knn.git
+[submodule "Lab03"]
+	path = Lab03
+	url = https://github.com/dalaljamal2004-prog/lab-3-knn.git
+[submodule "Lab04"]
+	path = Lab04
+	url = https://github.com/dalaljamal2004-prog/4-Linear-Scores-and-Multiclass-SVM-Los.git
+[submodule "Lab05"]
+	path = Lab05
+	url = https://github.com/dalaljamal2004-prog/lab05-svm.git
+[submodule "Lab06"]
+	path = Lab06
+	url = https://github.com/dalaljamal2004-prog/lab06-SGD.git
+[submodule "Lab07"]
+	path = Lab07
+	url = https://github.com/dalaljamal2004-prog/lab07-optimizers.git
+[submodule "Lab08"]
+	path = Lab08
+	url = https://github.com/dalaljamal2004-prog/lab08-two-layer-net.git
